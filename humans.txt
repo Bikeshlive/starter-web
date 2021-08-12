@@ -1,4 +1,4 @@
-# humanstxt.org/
+ Launch the instances in a public subnet with Elastic IP addresses attached. Once the application is installed and running, run a script to disassociate the Elastic IP addresses afterwards.# humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
